@@ -1,0 +1,27 @@
+{
+  "plugins": [
+    {
+      "name": "@zeplin/cli-connect-angular-plugin"
+    }
+  ],
+  "styleguides": [
+    "61741fcc1a228c143b224d91"
+  ],
+  "components": [
+    {
+      "path": "src\\app\\components\\searchbar\\searchbar.component.html",
+      "zeplinIds": [
+        "61742460ffd6a4127b2e9648"
+      ]
+    },
+    {
+      "path": "src\\app\\components\\button\\button.component.scss",
+      "zeplinIds": [
+        "61742427e63976125cd50a0b"
+      ]
+    }
+  ],
+  "github": {
+    "repository": "krystianschmidt/zeplin-figma"
+  }
+}
