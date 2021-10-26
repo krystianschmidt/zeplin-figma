@@ -1,7 +1,11 @@
 {
   "plugins": [
     {
-      "name": "@zeplin/cli-connect-angular-plugin"
+      "name": "@zeplin/cli-connect-angular-plugin",
+      "config": {
+        "useFullSnippet": true,
+        "useFullDescription": true
+      }
     }
   ],
   "styleguides": [
@@ -9,13 +13,7 @@
   ],
   "components": [
     {
-      "path": "src\\app\\components\\searchbar\\searchbar.component.html",
-      "zeplinIds": [
-        "61742460ffd6a4127b2e9648"
-      ]
-    },
-    {
-      "path": "src\\app\\components\\button\\button.component.scss",
+      "path": "src\\app\\components\\button\\button.component.ts",
       "zeplinIds": [
         "61742427e63976125cd50a0b"
       ]
