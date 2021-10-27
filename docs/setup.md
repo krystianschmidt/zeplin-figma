@@ -8,7 +8,7 @@
 
 The feature set of Figma focuses on use in user interface and user experience design, with an emphasis on real-time collaboration.
 
-\ + vector graphics editor and prototyping tool for any device type  
+\ + vector graphics editor and prototyping tool for any device types  
 \ + web and desktop version  
 \ + main components can be created, and its interfaces are set in dependency  
 \ + real time collaborations with a Team  
@@ -71,3 +71,5 @@ the coding of components.
 - Name your components self-explanatory and with a structure (_Button/Loading/Large_)
 - The code preview of the components in Zeplin is not available 
 for all kind of projects. It will say "No description or code snippet." The connection, however, exists.
+- Keep in mind how your Angular project order your file structure after compiling to use the correct paths in your code
+- Don't forget to import your global SCSS files to the SCSS of your components (create a main.scss)

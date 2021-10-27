@@ -1,25 +1,30 @@
-@use "../../../styles/colors";
-@use "../../../styles/fonts";
-
-.Text {
-  width: 311px;
-  height: 22px;
-  font-family: Nunito, sans-serif;
-  font-size: 17px;
-  font-weight: 600;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.29;
-  letter-spacing: normal;
-  text-align: center;
-  color: var(--color-neutral-6-white-reverse);
-}
+@import "src/styles/main";
 
 .Frame {
   width: 343px;
   height: 48px;
   border-radius: 6px;
-  background-color: var(--color-accent-1-blue);
-  display: inline-flex;
-  align-items: center;
+  background-color: $color-accent-1-blue;
+}
+
+.Frame .Text {
+  width: 311px;
+  height: 22px;
+  text-align: center;
+  color: $color-neutral-6-white-reverse;
+  @include Heading-3;
+}
+
+.Rectangle {
+  width: 343px;
+  height: 48px;
+  border-radius: 6px;
+  border: solid 2px $color-accent-1-blue;
+  background-color: white;
+}
+
+.Rectangle .Text {
+  text-align: center;
+  @include Heading-3;
+  color: $color-accent-1-blue;
 }

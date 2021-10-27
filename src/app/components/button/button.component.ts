@@ -12,4 +12,12 @@ export class ButtonComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  clicked = false;
+
+  clickFunc() {
+    this.clicked = true;
+    new Promise((res)=>setTimeout(res,1000))
+      .then(() => this.clicked = false);
+  }
+
 }
