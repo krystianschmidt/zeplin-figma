@@ -10,11 +10,11 @@ The feature set of Figma focuses on use in user interface and user experience de
 
 \ + vector graphics editor and prototyping tool for any device type  
 \ + web and desktop version  
-\ + main components can be created, and its interfaces are set in dependency
+\ + main components can be created, and its interfaces are set in dependency  
 \ + real time collaborations with a Team  
 \ + add animations and functions to sections and view them live  
-
-\ - it takes time to get into the tool
+  
+\ - it takes time to get into the tool  
 
 
 ---
@@ -25,12 +25,12 @@ The designs can be uploaded directly to the project folder in Zeplin. All inform
 
 Small notes with hints or questions can also be placed anywhere in the designs.
 
-\ + makes communication between designers and developers much easier
-\ + developers do not have to work in the design environment
-\ + exact values at a glance and no misunderstandings
-\ + connection to Ticket-Services and Git
-
-\ - it takes time to get into the tool
+\ + makes communication between designers and developers much easier  
+\ + developers do not have to work in the design environment  
+\ + exact values at a glance and no misunderstandings  
+\ + connection to Ticket-Services and Git  
+  
+\ - it takes time to get into the tool  
 
 ---
 
