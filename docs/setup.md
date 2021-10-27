@@ -2,8 +2,39 @@
 
 ![](files/figma&zeplin.png)
 
-![](files/explanation.png)
+---
 
+**Figma** is a vector graphics editor and prototyping tool which is available as Web- and desktop version.
+
+The feature set of Figma focuses on use in user interface and user experience design, with an emphasis on real-time collaboration.
+
+\ + vector graphics editor and prototyping tool for any device type  
+\ + web and desktop version  
+\ + main components can be created, and its interfaces are set in dependency
+\ + real time collaborations with a Team  
+\ + add animations and functions to sections and view them live  
+
+\ - it takes time to get into the tool
+
+
+---
+
+**Zeplin** is a tool that simplifies collaboration between developers and designers.
+
+The designs can be uploaded directly to the project folder in Zeplin. All information such as distances, sizes, fonts, colors and other CSS information are taken along.
+
+Small notes with hints or questions can also be placed anywhere in the designs.
+
+\ + makes communication between designers and developers much easier
+\ + developers do not have to work in the design environment
+\ + exact values at a glance and no misunderstandings
+\ + connection to Ticket-Services and Git
+
+\ - it takes time to get into the tool
+
+---
+
+![](files/explanation.png)
 
 # Setup
 Figma and Zeplin are both available as a Web- and Desktop versions.
@@ -11,11 +42,11 @@ Figma and Zeplin are both available as a Web- and Desktop versions.
 2. Sign Up in [Zeplin](https://zeplin.io/) (_now possible with you existing Figma account_)
 3. _Download the Desktop versions (recommended)_
 
-# Create a project
+# Create a project in Figma
 1. Create a new Team (_Note: Figma Professional is free for students - don't forget to get verified - a created Team can't be updated afterwards_)
 2. Projects can now be created within the created team.
 3. Design files can now be created within the projects.
-4. Be creative! Check the [Link Section](#links) for detailed tutorials.
+4. Be creative! Check the [Link Section](#links) for detailed tutorials of Figma.
 
 # Links
  - [Get to the Figma homepage](https://www.figma.com/)  
