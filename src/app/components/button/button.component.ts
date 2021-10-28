@@ -13,9 +13,11 @@ export class ButtonComponent implements OnInit {
   }
 
   clicked = false;
+  pic = false;
 
   clickFunc() {
     this.clicked = true;
+    this.pic = true;
     new Promise((res)=>setTimeout(res,1000))
       .then(() => this.clicked = false);
   }
